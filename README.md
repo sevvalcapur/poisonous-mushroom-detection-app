@@ -18,3 +18,11 @@ A mobile application that detects poisonous mushrooms using an Xception-based de
 - Mobile application interface
 - Model integration with React Native
 - User-friendly image upload and prediction flow
+
+## Note
+
+The trained model files are not included in this repository due to file size limitations.
+
+Model files excluded:
+- group1-shard1of1.bin
+- group1-shard1of1-stripped.bin
